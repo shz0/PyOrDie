@@ -4,4 +4,3 @@
 # trying to make a simple csv storage manager.
 
 
-import pandas

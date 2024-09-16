@@ -31,5 +31,5 @@ eingabe.set_artikel("NDI")
 eingabe.set_artikel("NDI")
 
 # testing lagerort
-eingabe.lagerort(4)
-eingabe.lagerort(6)  # raising Error!
+eingabe.set_lagerort(4)
+eingabe.set_lagerort(6)  # raising Error!

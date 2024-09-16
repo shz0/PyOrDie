@@ -24,8 +24,11 @@ class Artikelbezeichnung:
     def lagerort(self):
         return self._lagerort
 
-# testing
+# testing artikel
 eingabe = Artikelbezeichnung('NDI')
 eingabe.set_artikel("MTO")
 eingabe.set_artikel("NDI")
 eingabe.set_artikel("NDI")
+
+# testing lagerort
+eingabe.lagerort(4)

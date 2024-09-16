@@ -1,6 +1,7 @@
 class Artikelbezeichnung:
-    def __init__(self, artikel=None):
+    def __init__(self, artikel=None, lagerort=None):
         self._artikel = artikel
+        self._lagerort = lagerort
 
     def setze_artikel(self, neuer_artikel):
         if neuer_artikel is None:

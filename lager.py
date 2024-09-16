@@ -13,7 +13,7 @@ class Artikelbezeichnung:
 
     def set_lagerort(self, neuer_lagerort):
         if neuer_lagerort is not None and not 1 <= neuer_lagerort <= 4:
-            raise ValueError('Lagerort 1 - 4 verfügbar')
+            raise ValueError('Nur Lagerort 1 - 4 verfügbar')
         self._lagerort = neuer_lagerort
 
     @property
@@ -32,4 +32,3 @@ eingabe.set_artikel("NDI")
 
 # testing lagerort
 eingabe.set_lagerort(4)
-eingabe.set_lagerort(6)  # raising Error!

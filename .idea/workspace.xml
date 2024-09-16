@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="importing pandas">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="creating class StorageManager" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726425113589</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="creating class StorageManager">
+      <option name="closed" value="true" />
+      <created>1726425163664</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726425163664</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +149,7 @@
     <MESSAGE value="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything." />
     <MESSAGE value="beginning.." />
     <MESSAGE value="importing pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="importing pandas" />
+    <MESSAGE value="creating class StorageManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating class StorageManager" />
   </component>
 </project>

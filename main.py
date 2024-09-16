@@ -19,7 +19,7 @@ class Artikelbezeichnung:
     def artikel(self):
         return self._artikel
 
-
+# testing
 eingabe = Artikelbezeichnung('NDI')
 eingabe.setze_artikel("MTO")
 eingabe.setze_artikel("NDI")

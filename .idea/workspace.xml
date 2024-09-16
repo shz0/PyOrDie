@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="creating class StorageManager">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="fixing class Artikelbezeichnung">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726505397042</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fixing class Artikelbezeichnung">
+      <option name="closed" value="true" />
+      <created>1726506680168</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726506680168</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +169,7 @@
     <MESSAGE value="beginning.." />
     <MESSAGE value="importing pandas" />
     <MESSAGE value="creating class StorageManager" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating class StorageManager" />
+    <MESSAGE value="fixing class Artikelbezeichnung" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing class Artikelbezeichnung" />
   </component>
 </project>

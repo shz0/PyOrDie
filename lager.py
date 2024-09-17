@@ -12,9 +12,11 @@ class Artikelbezeichnung:
             self._artikel = neuer_artikel
 
     def set_lagerort(self, neuer_lagerort):
-        if neuer_lagerort is not None and not 1 <= neuer_lagerort <= 4:
-            raise ValueError('Nur Lagerort 1 - 4 verfügbar')
-        self._lagerort = neuer_lagerort
+        match neuer_lagerort:
+            case 1 | 2 | 3 | 4:
+                self._lagerort = neuer_lagerort
+            case _:
+                raise ValueError('Nur Lagerort 1 - 4 verfügbar')
 
     @property
     def artikel(self):

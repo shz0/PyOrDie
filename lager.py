@@ -4,6 +4,7 @@ class Artikelbezeichnung:
         self._lagerort = lagerort
 
     def set_artikel(self, neuer_artikel):
+        print(f'{neuer_artikel} wurde eingelagert')
         if neuer_artikel is None:
             raise ValueError("Der Wert darf nicht None sein.")
         if self.artikel is not None and neuer_artikel == self.artikel:

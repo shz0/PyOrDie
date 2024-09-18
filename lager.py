@@ -17,7 +17,8 @@ class Artikelbezeichnung:
             case 1 | 2 | 3 | 4:
                 self._lagerort = neuer_lagerort
             case _:
-                raise ValueError('Nur Lagerort 1 - 4 verfügbar')
+                print(f'{neuer_lagerort} ist kein gültiger Lagerort')
+                print('Nur Die Zahlen 1 -4 sind erlaubt!')
 
     @property
     def artikel(self):
@@ -34,4 +35,5 @@ eingabe.set_artikel("NDI")
 eingabe.set_artikel("NDI")
 
 # testing lagerort
+eingabe.set_lagerort(5)
 eingabe.set_lagerort(4)

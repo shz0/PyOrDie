@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="fix instant method lagerort">
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="add a match condition to set_lagerort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726543304719</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add a match condition to set_lagerort">
+      <option name="closed" value="true" />
+      <created>1726587108021</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587108021</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +252,7 @@
     <MESSAGE value="creating class StorageManager" />
     <MESSAGE value="fixing class Artikelbezeichnung" />
     <MESSAGE value="fix instant method lagerort" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix instant method lagerort" />
+    <MESSAGE value="add a match condition to set_lagerort" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a match condition to set_lagerort" />
   </component>
 </project>

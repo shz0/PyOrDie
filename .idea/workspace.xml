@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="add main()">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="2 new prints">
       <change beforePath="$PROJECT_DIR$/lager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -266,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726676696237</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2 new prints">
+      <option name="closed" value="true" />
+      <created>1726683403731</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726683403731</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +297,7 @@
     <MESSAGE value="add a match condition to set_lagerort" />
     <MESSAGE value="add print message &quot;eingelagert&quot;" />
     <MESSAGE value="add main()" />
-    <option name="LAST_COMMIT_MESSAGE" value="add main()" />
+    <MESSAGE value="2 new prints" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 new prints" />
   </component>
 </project>

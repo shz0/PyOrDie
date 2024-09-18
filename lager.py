@@ -18,7 +18,7 @@ class Artikelbezeichnung:
                 self._lagerort = neuer_lagerort
             case _:
                 print(f'{neuer_lagerort} ist kein gültiger Lagerort')
-                print('Nur Die Zahlen 1 -4 sind erlaubt!')
+                print('Nur Die Zahlen 1 - 4 sind erlaubt!')
 
     @property
     def artikel(self):

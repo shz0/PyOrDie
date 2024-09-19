@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="adding django project for web app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Settings.AICodingPlugin.Configuration",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Python",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726423384469</updated>
       <workItem from="1726767503661" duration="233000" />
-      <workItem from="1726767745710" duration="1069000" />
+      <workItem from="1726767745710" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
       <option name="closed" value="true" />
@@ -340,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726767590443</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="adding django project for web app">
+      <option name="closed" value="true" />
+      <created>1726769383836</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726769383836</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

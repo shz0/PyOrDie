@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="2 new prints">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="adding django project for web app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,13 +27,16 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2m7MuU3WQAYQrD6e2KHO5brp1wM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.lager.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -285,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726683415717</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="adding django project for web app">
+      <option name="closed" value="true" />
+      <created>1726763251538</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726763251538</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +308,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything." />
     <MESSAGE value="beginning.." />
     <MESSAGE value="importing pandas" />
@@ -310,6 +319,7 @@
     <MESSAGE value="add print message &quot;eingelagert&quot;" />
     <MESSAGE value="add main()" />
     <MESSAGE value="2 new prints" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 new prints" />
+    <MESSAGE value="adding django project for web app" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding django project for web app" />
   </component>
 </project>

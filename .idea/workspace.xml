@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="working on backend">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloDjango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hallo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hallo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/start.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,8 @@
     "Python.models.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/tomis/Desktop/projects/PyOrDie/manage.py",
@@ -93,15 +94,7 @@
       <workItem from="1726800608688" duration="1714000" />
       <workItem from="1726898343018" duration="1714000" />
       <workItem from="1726900736313" duration="152000" />
-      <workItem from="1726900900504" duration="15779000" />
-    </task>
-    <task id="LOCAL-00002" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
-      <option name="closed" value="true" />
-      <created>1726423857966</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1726423857966</updated>
+      <workItem from="1726900900504" duration="19142000" />
     </task>
     <task id="LOCAL-00003" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
       <option name="closed" value="true" />
@@ -487,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726922497209</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="working on backend">
+      <option name="closed" value="true" />
+      <created>1726935750205</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1726935750205</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

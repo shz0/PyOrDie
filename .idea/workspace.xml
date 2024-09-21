@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="updated workspace.xml">
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="working on backend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloDjango/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloDjango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloDjango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hallo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hallo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/start.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,15 +93,7 @@
       <workItem from="1726800608688" duration="1714000" />
       <workItem from="1726898343018" duration="1714000" />
       <workItem from="1726900736313" duration="152000" />
-      <workItem from="1726900900504" duration="12998000" />
-    </task>
-    <task id="LOCAL-00001" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
-      <option name="closed" value="true" />
-      <created>1726423746156</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1726423746156</updated>
+      <workItem from="1726900900504" duration="15779000" />
     </task>
     <task id="LOCAL-00002" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
       <option name="closed" value="true" />
@@ -490,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726921320863</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="working on backend">
+      <option name="closed" value="true" />
+      <created>1726922497208</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1726922497209</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +522,8 @@
     <MESSAGE value="migrated models" />
     <MESSAGE value="updated data" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="working on backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on backend" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyOrDie$models.coverage" NAME="models Coverage Results" MODIFIED="1726921052609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helloDjango" />

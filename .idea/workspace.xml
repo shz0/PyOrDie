@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="working on django app" />
+    <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="property solution for string to int func">
+      <change afterPath="$PROJECT_DIR$/helloDjango/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloDjango/migrations/0002_rename_number_artikel_lagerort_alter_artikel_titel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloDjango/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloDjango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloDjango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +61,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.lager.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.models.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
@@ -87,7 +98,7 @@
       <workItem from="1726800608688" duration="1714000" />
       <workItem from="1726898343018" duration="1714000" />
       <workItem from="1726900736313" duration="152000" />
-      <workItem from="1726900900504" duration="5409000" />
+      <workItem from="1726900900504" duration="11924000" />
     </task>
     <task id="LOCAL-00001" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
       <option name="closed" value="true" />
@@ -417,7 +428,47 @@
       <option name="project" value="LOCAL" />
       <updated>1726906943035</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="working on django app">
+      <option name="closed" value="true" />
+      <created>1726907322292</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1726907322292</updated>
+    </task>
+    <task id="LOCAL-00043" summary="property solution for string to int func">
+      <option name="closed" value="true" />
+      <created>1726917666908</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1726917666908</updated>
+    </task>
+    <task id="LOCAL-00044" summary="property solution for string to int func">
+      <option name="closed" value="true" />
+      <created>1726917787272</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1726917787272</updated>
+    </task>
+    <task id="LOCAL-00045" summary="property solution for string to int func">
+      <option name="closed" value="true" />
+      <created>1726917803301</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1726917803301</updated>
+    </task>
+    <task id="LOCAL-00046" summary="property solution for string to int func">
+      <option name="closed" value="true" />
+      <created>1726918031343</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1726918031343</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,6 +499,10 @@
     <MESSAGE value="2 new prints" />
     <MESSAGE value="adding django project for web app" />
     <MESSAGE value="working on django app" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on django app" />
+    <MESSAGE value="property solution for string to int func" />
+    <option name="LAST_COMMIT_MESSAGE" value="property solution for string to int func" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyOrDie$models.coverage" NAME="models Coverage Results" MODIFIED="1726921052609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helloDjango" />
   </component>
 </project>

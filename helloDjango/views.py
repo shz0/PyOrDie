@@ -7,3 +7,6 @@ def index(request):
 
 def start(request):
     return render(request, 'start.html')
+
+def navbar(request):
+    return render(request, 'navbar.html')

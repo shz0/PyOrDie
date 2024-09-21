@@ -17,7 +17,7 @@ class Artikel(models.Model):
     @number_as_int.setter
     def number_as_int(self, value):
         self.number = str(value)
-        if value is not None else None:
+        if value is not None else None:     # <--
             pass
 
     # End of the Code for the Solution! (rewatch)

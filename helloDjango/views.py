@@ -1,8 +1,8 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+# from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Hallo Django")
+    return render(request, 'index.html')
 
 def start(request):
-    return HttpResponse("Startseite")
+    return render(request, 'start.html')

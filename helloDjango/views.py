@@ -3,7 +3,7 @@ from django.shortcuts import render
 # from django.http import JsonResponse
 
 def index(request):
-    return render(request, 'index.html')
+    return render(request, 'hallo.html')
 
 def start(request):
     return render(request, 'start.html')

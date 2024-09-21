@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="working on django app">
+      <change afterPath="$PROJECT_DIR$/templates/hallo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyOrDie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyOrDie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloDjango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/start.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +60,17 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.lager.executor": "Run",
     "Python.main.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/tomis/Desktop/AI Coding/lib/AI Coding-2024.1.15-instrumented-mini.jar",
+    "last_opened_file_path": "C:/Users/tomis/Desktop/projects/PyOrDie/manage.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.intellij.python.django.customization.DjangoModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,7 +96,7 @@
       <workItem from="1726800608688" duration="1714000" />
       <workItem from="1726898343018" duration="1714000" />
       <workItem from="1726900736313" duration="152000" />
-      <workItem from="1726900900504" duration="3067000" />
+      <workItem from="1726900900504" duration="5065000" />
     </task>
     <task id="LOCAL-00001" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
       <option name="closed" value="true" />
@@ -402,7 +410,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726903957823</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="working on django app">
+      <option name="closed" value="true" />
+      <created>1726904008871</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1726904008871</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

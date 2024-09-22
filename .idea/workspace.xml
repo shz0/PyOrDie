@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="337f72f7-8f4c-49e0-be67-5cc6bba52f0f" name="Changes" comment="working on backend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloDjango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloDjango/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hallo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hallo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,15 +98,8 @@
       <workItem from="1726900736313" duration="152000" />
       <workItem from="1726900900504" duration="19948000" />
       <workItem from="1726943951118" duration="1626000" />
-      <workItem from="1726989337909" duration="1418000" />
-    </task>
-    <task id="LOCAL-00005" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
-      <option name="closed" value="true" />
-      <created>1726424610288</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1726424610288</updated>
+      <workItem from="1726989337909" duration="1591000" />
+      <workItem from="1727020305580" duration="50000" />
     </task>
     <task id="LOCAL-00006" summary="beginning of the new learning project of python.&#10;&#10;I've created a new project with git, to test everything.">
       <option name="closed" value="true" />
@@ -492,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726944641294</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="working on backend">
+      <option name="closed" value="true" />
+      <created>1726992524771</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1726992524771</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
